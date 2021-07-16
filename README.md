@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markhalka
-- 👀 I’m interested in distributed systems and swarm intelligence.
+- 👀 I’m interested in reinforcement learning, distributed systems, swarm intelligence.
 - 🌱 I’m currently learning reinforcment learning, swarm intelligence.
 - 💞️ I’m looking to collaborate on projects that allow distributed systems to learn and adapt to their enviornment.
 - 📫 How to reach me: mark.halka2001@gmail.com
